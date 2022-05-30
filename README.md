@@ -1,6 +1,6 @@
 # odin-recipes
 <html>
     <body>
-        <p>We will show you the 3 Parts of a good Squad Formation.</p>
+        <p>We will show you recipes for 3 great dishes.</p>
     </body>
 </html>
